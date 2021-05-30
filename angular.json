@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "homebroker"
+    }
+  },
+  "defaultProject": "homebroker",
+  "cli": {
+    "analytics": "f0975026-9b7a-4a67-af62-27771826e3da"
+  }
 }
